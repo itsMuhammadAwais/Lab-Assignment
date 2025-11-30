@@ -1,0 +1,16 @@
+Input:
+
+# Task 9: Laptops and model numbers
+laptops = {
+    "Razer": "Blade-15-Advanced",
+    "Alienware": "M15-R7",
+    "Chromebook": "Pixel-Go"
+}
+laptops["Alienware"] = "X17-R2"
+print("Updated laptops:")
+print(laptops)
+
+Output:
+
+Updated laptops:
+{'Razer': 'Blade-15-Advanced', 'Alienware': 'X17-R2', 'Chromebook': 'Pixel-Go'}
