@@ -1,0 +1,25 @@
+Input:
+
+# Task 1: Books and authors
+books = {
+    "The Road": "Cormac McCarthy",
+    "Beloved": "Toni Morrison",
+    "Life of Pi": "Yann Martel",
+    "The Kite Runner": "Khaled Hosseini",
+    "Never Let Me Go": "Kazuo Ishiguro"
+}
+print("Books and authors:")
+print("The Road by", books["The Road"])
+print("Beloved by", books["Beloved"])
+print("Life of Pi by", books["Life of Pi"])
+print("The Kite Runner by", books["The Kite Runner"])
+print("Never Let Me Go by", books["Never Let Me Go"])
+
+Output:
+
+Books and authors:
+The Road by Cormac McCarthy       
+Beloved by Toni Morrison
+Life of Pi by Yann Martel
+The Kite Runner by Khaled Hosseini
+Never Let Me Go by Kazuo Ishiguro 
