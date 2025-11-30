@@ -1,0 +1,25 @@
+Input:
+
+# Task 20: Songs and durations
+songs = {
+    "Stairway to Heaven": "8:02",
+    "Sweet Child O Mine": "5:56",
+    "November Rain": "8:57",
+    "Wonderwall": "4:18",
+    "Lose Yourself": "5:26"
+}
+print("Song durations:")
+print("Stairway to Heaven:", songs["Stairway to Heaven"])
+print("Sweet Child O Mine:", songs["Sweet Child O Mine"])
+print("November Rain:", songs["November Rain"])
+print("Wonderwall:", songs["Wonderwall"])
+print("Lose Yourself:", songs["Lose Yourself"])
+
+Output:
+
+Song durations:
+Stairway to Heaven: 8:02
+Sweet Child O Mine: 5:56
+November Rain: 8:57
+Wonderwall: 4:18
+Lose Yourself: 5:26
