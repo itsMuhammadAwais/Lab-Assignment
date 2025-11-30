@@ -1,0 +1,18 @@
+Input:
+
+# Task 22: Mobile brands and top models
+mobiles = {
+    "BlackBerry": "KEY2 LE",
+    "ZTE": "Axon 40 Ultra",
+    "Alcatel": "3L Plus",
+    "LG": "Wing 5G",
+    "HTC": "U23 Pro"
+}
+if "Oppo" in mobiles:
+    print("Oppo exists")
+else:
+    print("Oppo does not exist")
+
+Output:
+
+Oppo does not exist
