@@ -1,0 +1,25 @@
+Input:
+
+# Task 10: Players and scores
+players = {
+    "LeBron": 9200,
+    "Curry": 8700,
+    "Durant": 8400,
+    "Harden": 7900,
+    "Westbrook": 7300
+}
+print("Player scores:")
+print("LeBron:", players["LeBron"])
+print("Curry:", players["Curry"])
+print("Durant:", players["Durant"])
+print("Harden:", players["Harden"])
+print("Westbrook:", players["Westbrook"])
+
+Output:
+
+Player scores:
+LeBron: 9200
+Curry: 8700
+Durant: 8400
+Harden: 7900
+Westbrook: 7300
