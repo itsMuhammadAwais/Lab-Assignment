@@ -1,0 +1,18 @@
+Input:
+
+# Task 21: Teachers and subjects
+teachers = {
+    "Mr. Johnson": "Algebra",
+    "Ms. Anderson": "Literature",
+    "Mrs. Thompson": "Chemistry",
+    "Mr. Davis": "World History",
+    "Ms. Martinez": "Programming"
+}
+teachers["Ms. Anderson"] = "American Literature"
+print("Updated teachers:")
+print(teachers)
+
+Output:
+
+Updated teachers:
+{'Mr. Johnson': 'Algebra', 'Ms. Anderson': 'American Literature', 'Mrs. Thompson': 'Chemistry', 'Mr. Davis': 'World History', 'Ms. Martinez': 'Programming'}
