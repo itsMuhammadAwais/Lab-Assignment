@@ -1,0 +1,18 @@
+Input:
+
+# Task 18: Languages and countries
+languages = {
+    "English": "United States",
+    "Korean": "South Korea",
+    "Italian": "Italy",
+    "Dutch": "Netherlands",
+    "Swedish": "Sweden"
+}
+languages["English"] = "USA and UK"
+print("Updated languages:")
+print(languages)
+
+Output:
+
+Updated languages:
+{'English': 'USA and UK', 'Korean': 'South Korea', 'Italian': 'Italy', 'Dutch': 'Netherlands', 'Swedish': 'Sweden'} 
