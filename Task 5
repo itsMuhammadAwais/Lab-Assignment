@@ -1,0 +1,25 @@
+Input:
+
+# Task 5: Animals and sounds
+animals = {
+    "Wolf": "Howl",
+    "Bear": "Growl",
+    "Owl": "Hoot",
+    "Snake": "Hiss",
+    "Bee": "Buzz"
+}
+print("Animals and sounds:")
+print("Wolf:", animals["Wolf"])
+print("Bear:", animals["Bear"])
+print("Owl:", animals["Owl"])
+print("Snake:", animals["Snake"])
+print("Bee:", animals["Bee"])
+
+Output:
+
+Animals and sounds:
+Wolf: Howl
+Bear: Growl
+Owl: Hoot
+Snake: Hiss
+Bee: Buzz
