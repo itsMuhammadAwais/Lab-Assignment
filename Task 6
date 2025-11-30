@@ -1,0 +1,18 @@
+Input:
+
+# Task 6: Usernames and passwords
+users = {
+    "david_clark": "america123",
+    "emily_wilson": "secure456",
+    "james_moore": "password789",
+    "sarah_taylor": "login2024",
+    "chris_anderson": "welcome321"
+}
+users["emily_wilson"] = "newsafe888"
+print("Updated users:")
+print(users)
+
+Output:
+
+Updated users:
+{'david_clark': 'america123', 'emily_wilson': 'newsafe888', 'james_moore': 'password789', 'sarah_taylor': 'login2024', 'chris_anderson': 'welcome321'}
