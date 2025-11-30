@@ -1,0 +1,18 @@
+Input:
+
+# Task 19: Actors and number of movies
+actors = {
+    "Samuel L Jackson": 150,
+    "Robert Downey Jr": 85,
+    "Scarlett Johansson": 65,
+    "Morgan Freeman": 120,
+    "Angelina Jolie": 55
+}
+actors["Chris Hemsworth"] = 45
+print("All actors:")
+print(actors)
+
+Output:
+
+All actors:
+{'Samuel L Jackson': 150, 'Robert Downey Jr': 85, 'Scarlett Johansson': 65, 'Morgan Freeman': 120, 'Angelina Jolie': 55, 'Chris Hemsworth': 45}
