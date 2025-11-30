@@ -1,0 +1,18 @@
+Input:
+
+# Task 14: Countries and currencies
+countries = {
+    "Switzerland": "Franc",
+    "Sweden": "Krona",
+    "Norway": "Krone",
+    "South Korea": "Won",
+    "Poland": "Zloty"
+}
+if "India" in countries:
+    print("India is included")
+else:
+    print("India is not included")
+
+Output:
+
+India is not included
