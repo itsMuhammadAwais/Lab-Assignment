@@ -1,0 +1,18 @@
+Input:
+
+# Task 13: Meal items and calories
+meals = {
+    "Tacos": 380,
+    "Sushi Roll": 290,
+    "Caesar Salad": 240,
+    "Steak": 680,
+    "Nachos": 520
+}
+meals["Burrito"] = 620
+print("All meals:")
+print(meals)
+
+Output:
+
+All meals:
+{'Tacos': 380, 'Sushi Roll': 290, 'Caesar Salad': 240, 'Steak': 680, 'Nachos': 520, 'Burrito': 620}
