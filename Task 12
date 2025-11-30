@@ -1,0 +1,18 @@
+Input:
+
+# Task 12: Cars and companies
+cars = {
+    "F-150": "Ford",
+    "Silverado": "Chevrolet",
+    "Wrangler": "Jeep",
+    "Model X": "Tesla",
+    "Escalade": "Cadillac"
+}
+cars["Silverado"] = "General Motors"
+print("Updated cars:")
+print(cars)
+
+Output:
+
+Updated cars:
+{'F-150': 'Ford', 'Silverado': 'General Motors', 'Wrangler': 'Jeep', 'Model X': 'Tesla', 'Escalade': 'Cadillac'}
