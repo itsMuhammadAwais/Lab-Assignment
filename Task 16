@@ -1,0 +1,18 @@
+Input:
+
+# Task 16: Sports and number of players
+sports = {
+    "American Football": 11,
+    "Ice Hockey": 6,
+    "Softball": 9,
+    "Lacrosse": 10,
+    "Water Polo": 7
+}
+sports["Ice Hockey"] = 12
+print("Updated sports:")
+print(sports)
+
+Output:
+
+Updated sports:
+{'American Football': 11, 'Ice Hockey': 12, 'Softball': 9, 'Lacrosse': 10, 'Water Polo': 7}
