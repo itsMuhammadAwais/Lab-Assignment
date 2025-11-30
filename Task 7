@@ -1,0 +1,18 @@
+Input:
+
+# Task 7: Fruits and prices
+fruits = {
+    "Blueberry": 320,
+    "Avocado": 280,
+    "Cranberry": 380,
+    "Dragonfruit": 450,
+    "Passion Fruit": 340
+}
+fruits["Raspberry"] = 400
+print("All fruits:")
+print(fruits)
+
+Output:
+
+All fruits:
+{'Blueberry': 320, 'Avocado': 280, 'Cranberry': 380, 'Dragonfruit': 450, 'Passion Fruit': 340, 'Raspberry': 400}
