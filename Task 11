@@ -1,0 +1,25 @@
+Input:
+
+# Task 11: English words and meanings
+words = {
+    "Sincere": "Genuine and honest",
+    "Diligent": "Hard working",
+    "Optimistic": "Hopeful about future",
+    "Compassionate": "Showing sympathy",
+    "Confident": "Self assured"
+}
+print("Word meanings:")
+print("Sincere:", words["Sincere"])
+print("Diligent:", words["Diligent"])
+print("Optimistic:", words["Optimistic"])
+print("Compassionate:", words["Compassionate"])
+print("Confident:", words["Confident"])
+
+Output:
+
+Word meanings:
+Sincere: Genuine and honest
+Diligent: Hard working
+Optimistic: Hopeful about future
+Compassionate: Showing sympathy
+Confident: Self assured
