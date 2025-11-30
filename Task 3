@@ -1,0 +1,25 @@
+Input:
+
+# Task 3: Movies and release years
+movies = {
+    "The Godfather": 1972,
+    "Schindler's List": 1993,
+    "The Departed": 2006,
+    "Parasite": 2019,
+    "Amélie": 2001
+}
+print("Movies and years:")
+print("The Godfather:", movies["The Godfather"])
+print("Schindler's List:", movies["Schindler's List"])
+print("The Departed:", movies["The Departed"])
+print("Parasite:", movies["Parasite"])
+print("Amélie:", movies["Amélie"])
+
+Output:
+
+Movies and years:
+The Godfather: 1972
+Schindler's List: 1993
+The Departed: 2006
+Parasite: 2019
+Amélie: 2001
