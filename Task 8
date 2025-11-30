@@ -1,0 +1,18 @@
+Input:
+
+# Task 8: Apps and ratings
+apps = {
+    "Uber": 4.5,
+    "Airbnb": 4.7,
+    "Zoom": 4.4,
+    "Discord": 4.6,
+    "Reddit": 4.3
+}
+if "WhatsApp" in apps:
+    print("WhatsApp found")
+else:
+    print("WhatsApp not found")
+
+Output:
+
+WhatsApp not found
